@@ -30,14 +30,11 @@ zstyle ':prezto:load' pmodule \
   'history' \
   'directory' \
   'spectrum' \
-  'utility' \
   'completion' \
-  'prompt' \
   'tmux' \
   'pacman' \
-  'ssh' \
-  'gpg' \
-  'git'
+  'git' \
+  'prompt'
 
 #
 # Editor
