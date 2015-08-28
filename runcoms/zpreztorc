@@ -31,9 +31,11 @@ zstyle ':prezto:load' pmodule \
   'directory' \
   'spectrum' \
   'completion' \
+  'ssh' \
   'tmux' \
   'pacman' \
   'git' \
+  'utility' \
   'prompt'
 
 #
